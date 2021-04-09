@@ -1,4 +1,4 @@
-"ID","INV","DATE","CATALOG","PCODE","QTY","custnum"
+"ID";"INV";"DATE";"CATALOG";"PCODE";"QTY";"custnum"
 1;2513000.00;"GD3200";17/12/2000 00:00:00;"Gardening";3.00;"Rifkin, Mr. Bob"
 2;2513000.00;"PT1400";6/1/2001 00:00:00;"Pets";1.00;"Rifkin, Mr. Bob"
 3;2513000.00;"PT2000";6/1/2001 00:00:00;"Pet";1.00;"Rifkin, Mr. Bob"
